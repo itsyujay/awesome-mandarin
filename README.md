@@ -66,6 +66,7 @@ Dictionaries, apps, graded readers, HSK materials, and other resources for learn
 - [Chinese Etymology](https://hanziyuan.net) - Historical character forms compiled by Richard Sears, from oracle-bone and bronze inscriptions to regular script. (free)
 - [Zi.tools](https://zi.tools) - Character explorer for phonetic series, components, and related words, useful for seeing how characters group together. (free)
 - [AnimCJK](https://github.com/parsimonhi/animCJK) - Open SVG animations of Chinese, Japanese, and Korean character stroke order. (free)
+- [Hanzilla](https://hanzilla.app) - iOS app for handwriting practice of HSK and textbook vocabulary with spaced repetition, plus web stroke-order pages with a writing quiz for about 3,400 characters. (free)
 
 ## Graded Readers
 
