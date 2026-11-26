@@ -202,6 +202,7 @@ Dictionaries, apps, graded readers, HSK materials, and other resources for learn
 
 - [Chinese Language Teachers Association](https://www.clta-us.org) - Professional association for Chinese-language teachers, with conferences, publications, and job listings. (paid membership, many public resources)
 - [ChinesePlus](https://www.chineseplus.net) - Platform for international Chinese teaching materials, courses, and teacher resources. (freemium)
+- [Z Turns 8-Minute Mandarin Classroom Drill](https://gist.github.com/shengdabai/d185d6ae7b2afa9656a5ca036fa7f28b) - Timed classroom activity with two dialogues, an answer key, and reply practice for intermediate Mandarin learners. (free)
 
 ## Living in China
 
