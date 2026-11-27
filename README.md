@@ -113,6 +113,7 @@ Dictionaries, apps, graded readers, HSK materials, and other resources for learn
 - [HSK 3.0 standard word lists](https://old.chinesetest.cn/standardsAction.do?means=standardInfo) - Official lookup for vocabulary in the *Standards for Chinese Proficiency in International Chinese Language Education*. (free)
 - [TOCFL](https://tocfl.edu.tw) - Official Test of Chinese as a Foreign Language site for the Taiwan Mandarin proficiency exam. (free)
 - [HanziDrill](https://hanzidrill.com) - HSK 3.0 practice tests, word lists, stroke-order practice, and printable worksheets. (freemium)
+- [HSKTest.online](https://www.hsktest.online/diagnostic/hsk-1) - Unofficial Chinese reading and language quizzes with answer review and separate follow-up drills, excluding listening and speaking. (freemium)
 - [hskhsk.com](https://hskhsk.com) - HSK word lists, graphs, and study tools for current and earlier syllabus versions. (free)
 - [Coursera HSK specialization](https://www.coursera.org/specializations/hsk-learn-chinese) - Peking University course series that follows the HSK sequence, available to audit or with paid certificates. (freemium)
 
